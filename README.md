@@ -13,6 +13,9 @@ responsable, empática y capaz de trabajar en equipo.
 permite lograr los objetivos de manera efectiva y eficiente.
 Competencias e Idiomas.
 
+[![LatamBrainlogo](https://user-images.githubusercontent.com/72631572/235259136-6926bc29-6e80-48cb-b18f-81fb5dd5d9b6.png)
+)](https://www.youtube.com/watch?v=G8PdiAwhbNM&t=1s)
+
 ## Habilidades y Tecnologías 🧮
 - Python, Numpy, Pandas, MatplotLib, SQL, NoSQL, AWS, DataBricks,
 apache SparK, Power BI, Tableau, Excel, Streamlit, Scikit-learn, Keras,
@@ -64,6 +67,6 @@ con herramientas como Github, Trello, entre otras.
 Actualmente participando – [Semillero Tech](https://semillero.tech/) & [Quinto Impacto](https://quintoimpacto.net/)
 
 ## Contactarme aquí... 📲
-| [Email](mailto:perezcatriel@gmail.com)  | [LinkedIn](https://www.linkedin.com/in/catriel-p%C3%A9rez-870889174/) | [GitHub](https://github.com/perezcatriel) | [HuggieFace](https://huggingface.co/spaces/perezcatriel/data_world_jobs)  | [Notion](https://www.notion.so/Catriel-P-rez-865525a461bf42a88e0105cfd392d235)  | +54 / 3541 - 638060 | [CV PDF]()  |
+| [Email](mailto:perezcatriel@gmail.com)  | [LinkedIn](https://www.linkedin.com/in/catriel-p%C3%A9rez-870889174/) | [GitHub](https://github.com/perezcatriel) | [HuggieFace](https://huggingface.co/spaces/perezcatriel/data_world_jobs)  | [Notion](https://www.notion.so/Catriel-P-rez-865525a461bf42a88e0105cfd392d235)  | +54 / 3541 - 638060 | [CV PDF](https://file.notion.so/f/s/dbb4b21d-179c-4770-aa98-3607ae1cbe46/cv_data_mayo.pdf?id=c8ec1fa0-9f43-49c2-abcc-f5c786b7298a&table=block&spaceId=dec42694-a043-407f-a2cc-6ea8d6cb8f50&expirationTimestamp=1682804357938&signature=VlItoCXTF5kXGIzP0e21k0YH8K5n5zhcEhVLrTukSQ8&downloadName=CV_PDF.pdf)  |
 
 *De Lunes a Viernes de 9 a 16 hs.*
