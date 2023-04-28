@@ -13,8 +13,7 @@ responsable, empática y capaz de trabajar en equipo.
 permite lograr los objetivos de manera efectiva y eficiente.
 Competencias e Idiomas.
 
-[![LatamBrainlogo](https://user-images.githubusercontent.com/72631572/235259136-6926bc29-6e80-48cb-b18f-81fb5dd5d9b6.png)
-)](https://www.youtube.com/watch?v=G8PdiAwhbNM&t=1s)
+<a href="https://www.youtube.com/watch?v=G8PdiAwhbNM&t=1s"><img src="https://user-images.githubusercontent.com/72631572/235260601-28b21ebc-b532-4cb9-9f02-608a70c1fdc8.jpeg" alt="LatamBrain" width="300px" /><figcaption><i>LatamBrain - YouTube</i></figcaption></a>
 
 ## Habilidades y Tecnologías 🧮
 - Python, Numpy, Pandas, MatplotLib, SQL, NoSQL, AWS, DataBricks,
