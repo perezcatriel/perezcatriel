@@ -1,6 +1,8 @@
 # Catriel Pérez 🤓
 ### Data Science | Python | SQL | AWS | Analyst | Machine Learning
 
+[contacto][1]
+
 ## Quién soy? 🏄‍♂️ 👨‍💻 🍻
 > Como **Data Scientist** con experiencia previa en programación Web, he liderado
 un equipo utilizando metodologías Agile como Scrum para desarrollar una
@@ -33,8 +35,7 @@ mayor disponibilidad y protección. Además, nuestra plataforma te
 ofrece informes completos y análisis precisos, con predicciones y
 clasificaciones gracias a los modelos de Machine Learning que
 hemos desarrollado. Todo esto en una interfaz gráfica intuitiva y
-sencilla, disponible en línea para tu comodidad. ¡Contactarme
-aqui... y descubre todo lo que un Data Science puede hacer por ti!
+sencilla, disponible en línea para tu comodidad. <a href="1">¡Contactarme aqui...</a> y descubre todo lo que un Data Science puede hacer por ti!
 
 [LatamBrain](https://www.youtube.com/watch?v=G8PdiAwhbNM&t=1s) - 03/04/2023 - **Soy Henry**
 
@@ -65,7 +66,11 @@ con herramientas como Github, Trello, entre otras.
 
 Actualmente participando – [Semillero Tech](https://semillero.tech/) & [Quinto Impacto](https://quintoimpacto.net/)
 
-## Contactarme aquí... 📲
+
+<h2 id="1">Contactarme aquí... 📲</h2>
+
 | [Email](mailto:perezcatriel@gmail.com)  | [LinkedIn](https://www.linkedin.com/in/catriel-p%C3%A9rez-870889174/) | [GitHub](https://github.com/perezcatriel) | [HuggieFace](https://huggingface.co/spaces/perezcatriel/data_world_jobs)  | [Notion](https://www.notion.so/Catriel-P-rez-865525a461bf42a88e0105cfd392d235)  | +54 / 3541 - 638060 | [CV PDF](https://file.notion.so/f/s/dbb4b21d-179c-4770-aa98-3607ae1cbe46/cv_data_mayo.pdf?id=c8ec1fa0-9f43-49c2-abcc-f5c786b7298a&table=block&spaceId=dec42694-a043-407f-a2cc-6ea8d6cb8f50&expirationTimestamp=1682804357938&signature=VlItoCXTF5kXGIzP0e21k0YH8K5n5zhcEhVLrTukSQ8&downloadName=CV_PDF.pdf)  |
+
+[1]: contacto
 
 *De Lunes a Viernes de 9 a 16 hs.*
